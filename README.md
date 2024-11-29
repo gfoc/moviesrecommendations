@@ -29,7 +29,7 @@ A TMDB API Key (You can get it from here)
 Steps to Install
 Clone the repository:
 
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/gfoc/moviesrecommendations.git
 cd movie-recommendation-system
 Install dependencies:
 
